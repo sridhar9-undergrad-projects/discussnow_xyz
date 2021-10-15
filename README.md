@@ -16,5 +16,5 @@ Tag a question
 Get HOT questions as recommendations.
 Technologies used: I've developed this project from scratch using HTML, CSS, PHP, MySql, javascript.
 
-NOTES: This was my first personal project which i developed in my second year of college back in 2015.
+NOTES: This was my first personal project which I developed in my bachelors. So, This will always be one of my favourite project.
 
